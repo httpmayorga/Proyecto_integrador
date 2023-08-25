@@ -9,8 +9,8 @@ Los jugadores se enfrentarán al desafío de guiar al personaje a través del la
 
 Objetivos:
 
-Diseñar una interfaz visualmente clara utilizando caracteres ASCII para ilustrar tanto el laberinto como el personaje.
-Implementar la mecánica de movimiento, respondiendo a las entradas del usuario mediante las teclas de dirección.
-Desarrollar algoritmos para la generación procedural de laberintos, asegurando la existencia de rutas válidas.
-Validar las acciones del usuario, prohibiendo el movimiento a través de paredes u obstáculos.
-Establecer condiciones de victoria al alcanzar la ubicación final y permitir la opción de reiniciar el juego.
+1)Diseñar una interfaz visualmente clara utilizando caracteres ASCII para ilustrar tanto el laberinto como el personaje.
+2)Implementar la mecánica de movimiento, respondiendo a las entradas del usuario mediante las teclas de dirección.
+3)Desarrollar algoritmos para la generación de laberintos.
+4)Validar las acciones del usuario, prohibiendo el movimiento a través de paredes u obstáculos.
+5)Establecer condiciones de victoria al alcanzar la ubicación final y permitir la opción de reiniciar el juego.
